@@ -22,7 +22,7 @@ One is to try to identify a bot when they visit your application
 by their user-agend and/or their IP-address and then feed them
 "something else"
 
-**This will not prohibit AI bots from visit your site!**
+**This will not prohibit AI bots from visiting your site!**
 
 It is very important to understand this! Implementing this in your
 site will **not** 100% assure that your content will never find
@@ -52,10 +52,10 @@ not be too many requests for that external resources.
 ## Installation
 
 In short time you will find here installation instructions
-for the [main tool](https://github.com/VolkswAIgen/VolkswAIGen] as
+for the [main tool](https://github.com/VolkswAIgen/VolkswAIGen) as
 well as for the framework/CRM integrations.
 
 ## The List
 
-The lsit this all is based on is maintained on [github.com/VolkswAIgen/list](https://github.com/VolkswAIgen/list) 
+The list this all is based on is maintained on [github.com/VolkswAIgen/list](https://github.com/VolkswAIgen/list) 
 and will be regularily updated.
