@@ -57,5 +57,5 @@ well as for the framework/CRM integrations.
 
 ## The List
 
-The lsit this all is based on is maintained on [github.com/VolkswAIgen/list]
-(https://github.com/VolkswAIgen/list) and will be regularily updated.
+The lsit this all is based on is maintained on [github.com/VolkswAIgen/list](https://github.com/VolkswAIgen/list) 
+and will be regularily updated.
