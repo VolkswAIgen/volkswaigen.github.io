@@ -3,19 +3,17 @@
 					 targetNamespace="https://www.volkswaigen.org/list"
 					 xmlns="https://www.volkswaigen.org/list"
 					 elementFormDefault="qualified">
-	<xs:attribute name="value" type="xs:string" />
 	<xs:simpleType name="entry_type">
 		<xs:restriction base="xs:string">
 			<xs:enumeration value="ip-address"/>
 			<xs:enumeration value="user-agent"/>
 		</xs:restriction>
 	</xs:simpleType>
-	<xs:attribute name="type" type="entry_type" />
 
 	<xs:element name="entry">
 		<xs:complexType>
-			<xs:attribute ref="type" use="required"/>
-			<xs:attribute ref="value" use="required"/>
+			<xs:attribute name="type" type="entry_type" />
+			<xs:attribute name="value" type="xs:string" />
 		</xs:complexType>
 	</xs:element>
 
